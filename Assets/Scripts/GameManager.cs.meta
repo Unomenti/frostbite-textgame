@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ed50ba7772b1d5f48a73c313c93d4e6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UI: {instanceID: 0}
+  - L1: {instanceID: 0}
+  - L2: {instanceID: 0}
+  - L21: {instanceID: 0}
+  - L211: {instanceID: 0}
+  - L2111: {instanceID: 0}
+  - L2112: {instanceID: 0}
+  - L21121: {instanceID: 0}
+  - L212: {instanceID: 0}
+  - L22: {instanceID: 0}
+  - L222: {instanceID: 0}
+  - L221: {instanceID: 0}
+  - L2211: {instanceID: 0}
+  - TitleScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
